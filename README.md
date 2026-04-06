@@ -6,7 +6,7 @@
 
 bash
 git clone (https://github.com/agusann/Python-Seminario/tree/master/PRACTICA%202)
-cd Practica2 master
+cd PRACTICA 2 master
 
 2. Crear virtual environment y activarlo:
 (usando el cmd)
